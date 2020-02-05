@@ -1,3 +1,3 @@
-Simulation de loi Physique 
+Simulation de lois Physique 
 ==========================
 Utilisation de la SDL
