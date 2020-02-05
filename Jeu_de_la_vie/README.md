@@ -1,6 +1,6 @@
 Les informations nécessaires pour comprendre les paramètres du fichier Config.txt
 =================================================================================
-Selon le : 
+Selon : 
 https://www.dcode.fr/jeu-de-la-vie
 
 Fichiers de configuration : 
