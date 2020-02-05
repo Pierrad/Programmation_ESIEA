@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Project Name="Programmation" Version="10.0.0" InternalType="">
+  <VirtualDirectory Name="TP02">
+    <VirtualDirectory Name="Exo2">
+      <File Name="TP02/Exo2/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Exo1">
+      <File Name="TP02/Exo1/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Exo4">
+      <File Name="TP02/Exo4/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Exo5">
+      <File Name="TP02/Exo5/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Exo6">
+      <File Name="TP02/Exo6/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Exo7">
+      <File Name="TP02/Exo7/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Exo3">
+      <File Name="TP02/Exo3/main.c"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="TD06">
+    <VirtualDirectory Name="Partie2">
+      <VirtualDirectory Name="Exo2">
+        <File Name="TD06/Partie2/Exo2/main.c"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="Exo1">
+        <File Name="TD06/Partie2/Exo1/main.c"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="Exo4">
+        <File Name="TD06/Partie2/Exo4/main.c"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="Exo3">
+        <File Name="TD06/Partie2/Exo3/main.c"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Partie3">
+      <VirtualDirectory Name="Exo5">
+        <File Name="TD06/Partie3/Exo5/main.c"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="Exo6">
+        <File Name="TD06/Partie3/Exo6/main.c"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Partie1">
+      <File Name="TD06/Partie1/main.c"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="TD03">
+    <VirtualDirectory Name="Partie1">
+      <VirtualDirectory Name="Partie1.2">
+        <File Name="TD03/Partie1/Partie1.2/main.c"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="Partie1.1">
+        <File Name="TD03/Partie1/Partie1.1/main.c"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Partie7">
+      <VirtualDirectory Name="Partie7.2">
+        <File Name="TD03/Partie7/Partie7.2/main.c"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="Partie7.1">
+        <File Name="TD03/Partie7/Partie7.1/main.c"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Partie6">
+      <File Name="TD03/Partie6/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Partie4">
+      <File Name="TD03/Partie4/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Partie3">
+      <File Name="TD03/Partie3/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Partie2">
+      <File Name="TD03/Partie2/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Partie5">
+      <File Name="TD03/Partie5/main.c"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="TD04">
+    <VirtualDirectory Name="Partie3">
+      <VirtualDirectory Name="Partie3-Exo2">
+        <File Name="TD04/Partie3/Partie3-Exo2/main.c"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="Partie3-Exo3">
+        <File Name="TD04/Partie3/Partie3-Exo3/main.c"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="Partie3-Exo4">
+        <File Name="TD04/Partie3/Partie3-Exo4/main.c"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="Partie3-Exo1">
+        <File Name="TD04/Partie3/Partie3-Exo1/main.c"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Partie2">
+      <File Name="TD04/Partie2/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Partie1">
+      <File Name="TD04/Partie1/main.c"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="TDPARIS">
+    <VirtualDirectory Name="Entrainement">
+      <VirtualDirectory Name="EXO2">
+        <File Name="TDPARIS/Entrainement/EXO2/main.c"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="EXO1">
+        <File Name="TDPARIS/Entrainement/EXO1/main.c"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="EXO5">
+        <File Name="TDPARIS/Entrainement/EXO5/question5.c"/>
+        <File Name="TDPARIS/Entrainement/EXO5/main.c"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="EXO3">
+        <File Name="TDPARIS/Entrainement/EXO3/main.c"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="EXO4">
+        <File Name="TDPARIS/Entrainement/EXO4/main.c"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="EXO6">
+        <File Name="TDPARIS/Entrainement/EXO6/question7.c"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="TD07">
+    <VirtualDirectory Name="Exo4">
+      <File Name="TD07/Exo4/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Exo3">
+      <File Name="TD07/Exo3/main.c"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="TD05">
+    <VirtualDirectory Name="Partie4">
+      <File Name="TD05/Partie4/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Partie3">
+      <File Name="TD05/Partie3/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Partie5">
+      <File Name="TD05/Partie5/main.c"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="TD09">
+    <VirtualDirectory Name="Partie2">
+      <VirtualDirectory Name="Exercice4">
+        <File Name="TD09/Partie2/Exercice4/main.c"/>
+        <File Name="TD09/Partie2/Exercice4/text.txt"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="TD02">
+    <VirtualDirectory Name="Partie5">
+      <VirtualDirectory Name="Partie5.3">
+        <File Name="TD02/Partie5/Partie5.3/main.c"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="Partie5.2">
+        <File Name="TD02/Partie5/Partie5.2/main.c"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="Partie5.1">
+        <File Name="TD02/Partie5/Partie5.1/main.c"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Partie4">
+      <File Name="TD02/Partie4/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Partie3">
+      <File Name="TD02/Partie3/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Partie2">
+      <File Name="TD02/Partie2/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Partie1">
+      <File Name="TD02/Partie1/main.c"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="TP01">
+    <VirtualDirectory Name="TP01-Partie1.1">
+      <File Name="TP01/TP01-Partie1.1/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="TP01-Partie1.2">
+      <File Name="TP01/TP01-Partie1.2/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="TP01-Partie4.1">
+      <File Name="TP01/TP01-Partie4.1/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="TP01-Partie1.3">
+      <File Name="TP01/TP01-Partie1.3/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="TP01-Partie2">
+      <File Name="TP01/TP01-Partie2/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="TP01-Partie4.2">
+      <File Name="TP01/TP01-Partie4.2/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="TP01-Partie3">
+      <File Name="TP01/TP01-Partie3/main.c"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="TP01-Partie1.4">
+      <File Name="TP01/TP01-Partie1.4/main.c"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <Description/>
+  <Dependencies/>
+  <Settings Type="Executable">
+    <GlobalSettings>
+      <Compiler Options="" C_Options="" Assembler="">
+        <IncludePath Value="."/>
+      </Compiler>
+      <Linker Options="">
+        <LibraryPath Value="."/>
+      </Linker>
+      <ResourceCompiler Options=""/>
+    </GlobalSettings>
+    <Configuration Name="Debug" CompilerType="gnu g++" DebuggerType="GNU gdb debugger" Type="Executable" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
+      <Compiler Options="-g -Wall" C_Options="" Assembler="" Required="yes" PreCompiledHeader="" PCHInCommandLine="no" PCHFlags="" PCHFlagsPolicy="0">
+        <IncludePath Value="."/>
+      </Compiler>
+      <Linker Options="-O0" Required="yes">
+        <LibraryPath Value="."/>
+        <LibraryPath Value="Debug"/>
+      </Linker>
+      <ResourceCompiler Options="" Required="no"/>
+      <General OutputFile="$(IntermediateDirectory)/$(ProjectName)" IntermediateDirectory="./Debug" Command="./$(ProjectName)" CommandArguments="" UseSeparateDebugArgs="no" DebugArguments="" WorkingDirectory="./Debug" PauseExecWhenProcTerminates="no" IsGUIProgram="no" IsEnabled="yes"/>
+      <BuildSystem Name="Default"/>
+      <Environment EnvVarSetName="&lt;Use Workspace Settings&gt;" DbgSetName="&lt;Use Global Settings&gt;">
+        <![CDATA[]]>
+      </Environment>
+      <Debugger IsRemote="no" RemoteHostName="" RemoteHostPort="" DebuggerPath="" IsExtended="no">
+        <DebuggerSearchPaths/>
+        <PostConnectCommands/>
+        <StartupCommands/>
+      </Debugger>
+      <PreBuild/>
+      <PostBuild/>
+      <CustomBuild Enabled="no">
+        <RebuildCommand/>
+        <CleanCommand/>
+        <BuildCommand/>
+        <PreprocessFileCommand/>
+        <SingleFileCommand/>
+        <MakefileGenerationCommand/>
+        <ThirdPartyToolName/>
+        <WorkingDirectory/>
+      </CustomBuild>
+      <AdditionalRules>
+        <CustomPostBuild/>
+        <CustomPreBuild/>
+      </AdditionalRules>
+      <Completion EnableCpp11="no" EnableCpp14="no">
+        <ClangCmpFlagsC/>
+        <ClangCmpFlags/>
+        <ClangPP/>
+        <SearchPaths/>
+      </Completion>
+    </Configuration>
+  </Settings>
+  <VirtualDirectory Name="TP03">
+    <File Name="TP03/main.c"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Programmation">
+    <File Name="main2.c"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Jeu_de_la_vie">
+    <File Name="../../Téléchargements/Jeu_de_la_vie/Configuration.h"/>
+    <File Name="../../Téléchargements/Jeu_de_la_vie/jeu_de_la_vie.c"/>
+  </VirtualDirectory>
+  <Dependencies Name="Debug"/>
+</CodeLite_Project>

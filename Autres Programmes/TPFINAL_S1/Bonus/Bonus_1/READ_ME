@@ -1,0 +1,3 @@
+Ce bonus permet de gerer l'attenuation directement a partir du fichier "balle.txt". 
+
+Nous avons ajouté un paramètre a la lecture du fichier et remplacé chaque variable par la nouvelle. 

@@ -1,0 +1,4 @@
+masse <masse en kg>
+fCoef <coef de frottement>
+position <x> <y>
+vitesse <x> <y>

@@ -1,0 +1,155 @@
+Exercice 1:
+
+1)
+    Recherche Dichotomique 
+    
+        Entrée: Un entier N entre 0 et 50000
+        Sortie: Entier correct N entre 0 et 50000
+        Variable entière Key, min=0, max=50000, valeur
+        Faire:
+            SI (N=0 OU N==50000)
+                AFFICHER N
+                FIN
+            FIN SI
+            valeur<-valeur/2
+            TANT QUE (valeur != N)
+                
+                SI valeur<N
+                    min<-valeur
+                    valeur<-(max-min)/2
+                    AFFICHER valeur
+                FIN SI
+                
+                SI valeur>N
+                    max<-valeur
+                    valeur<-(max-min)/2
+                    AFFICHER valeur
+                FIN SI
+
+            FIN TANT QUE
+            RETOURNER valeur
+
+4)
+    Log(N)
+    
+    
+    
+Exercice 2:
+
+1)
+    4   1   2   5   6   3
+
+    3   1   2   5   6   4
+
+    3   1   2   4   6   5
+    
+    3   1   2   4   6   5 //Nouveau pivot (3)
+    
+    2   1   3   4   6   5
+    
+    2   1   3   4   6   5 //Nouveau pivot (2)
+    
+    1   2   3   4   6   5 
+    
+    1   2   3   4   6   5 //Nouveau pivot (6)
+    
+    1   2   3   4   5   6
+    
+2)
+    on place un marqueur sur le premier élément du tableau. on place deux index aux extrémités du tableau.
+    l'index de droite doit rejoindre celui de gauche. Mais, dès qu'il rencontre un élément plus petit que celui marqué par le marqueur il échange les deux éléments. Les index sont donc échangés et il repart dasn lautre sens
+    pour rejoindre le marqueur. Au moment où le marqueur est a sa place (élément plus petit avant et plus grand après) Deux tableaux se creer, 1 premier a gauche, 1 autre a droite.
+    On place le marqueur sur le tableau de gauche et on recommence les mêmes actions que celle du début. Dès que cette partie est ok, on passe au tableau de droite.
+    
+Exercice 3:
+
+1)
+    Recursivité simple
+    
+2) 
+    Un tableau, un indice de début et de Fin
+    
+3)
+    un tableau trié
+    
+4)
+    Pseudo Tri Rapide 
+    Entrée: Tab, i, j
+    Sortie: Tab trié
+    
+    Faire: 
+        Entier p
+        SI(i<j)
+            p<-Partitionnement(tab,i,j)
+            Tris(Tab,i,p-1)
+            Tris(Tab,p+1,j)
+        Fin SI	
+        
+Exercice 4:
+
+1) 
+    Le pivot est l'element le plus a gauche du tableau
+2)
+    Au début du partitionnement, les indices se placent au début, et à la fin du tableau
+3)
+    L'algorithme de partitionnement prend donc en entré, un tableau, un indice i et un indice j
+
+Exercice 5:
+
+1) 
+    Le partitionnement s'arrête quand l'indice du marqueur a rejoint l'autre indice
+2)
+    if(indiceMarqueur==max) return Tab;
+3)
+    Il faut forcément que l'indice de gauche soit plus petit que l'indice de droite
+4)
+    Il faut que l'indice de droite soit plus grand que l'indice de gauche
+5)
+    Si T[G]=T[D] on echange T[G] et T[D-1] et on echange les indices indiceMarqueur et max
+6)
+    Lorsque le partitionnement est terminé, on obtient un tableau trié
+
+7)
+    Partitionnement :
+
+	Entrée: Tableau, indiceMarqueur, max
+    Sortie: Tableau trié
+	Faire :
+	
+		Tant que max != indiceMarqueur
+		
+			SI Tab[max]<=Tab[indiceMarqueur]
+				ECHANGER Tab[max] et Tab[indiceMarqueur]				
+			FIN SI			
+			
+			SI max<indiceMarqueur
+				max<-max+1
+			FIN SI	
+			
+			SI max>indiceMarqueur
+				max<-max-1
+			FIN SI	
+			
+			SI max=indiceMarqueur
+				RETOURNER max
+			FIN SI	
+		
+		FIN TANT QUE
+    FIN
+    
+Exercice 7:
+
+1)
+    diviser : partitionnement
+    régner : résoudre le probleme dans chacun des cas
+    combiner : reunion des éléments la toute fin
+    
+2)
+    tris rapide : Nlog(N)
+    dichotomie : log(N)    
+3)
+    La dichotomie cherche un élément dans un tableau de maniere recursive en reduisant de moiter les bornes petit a petit
+    en fonction de si l'element cherche est en dessous ou au dessus de la position actuelle.
+
+    Le tris rapide sépare le tris en deux tris en placant les elements plus petits qu'un pivot, à sa gauche, et les elements plus grands, à droite
+    puis trie les deux parties en réitérant le même opération à chaque fois.

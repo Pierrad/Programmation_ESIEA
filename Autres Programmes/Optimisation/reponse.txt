@@ -1,0 +1,65 @@
+Exercice 1:
+
+2)  
+    code 1 : 
+             affectation
+             appel de la fonction strlen pour str
+             {
+                affichage
+                addition
+             } * strlen(str)
+             
+    code 2 : 
+             declaration
+             affectation de l avec appel de fonction 
+             affectation
+             {
+                  affichage
+                  addition
+             } * l
+             
+    code 3 : 
+             declaration d'un tableau avec 15 entrees
+             affectation de i 
+             {
+                test sur i 
+                    affectation
+                test sur i 
+                    affectation 
+                addition
+             } * 15
+             
+             
+3)
+    Pour le code 1 il faut passer 2*n dans une variable
+    int i;
+    int l = 2*n;
+    for (i=0; i<l; i++)
+        printf ("%d ", i+1);
+
+    Pour le code 2 il faut supprimer une condition qui n'est pas necessaire car on peut l'affecter avant et apres
+    printf("*");
+    for (i=1; i<n-2; i++)
+    {
+        printf ("-");
+    }
+    printf ("*");
+    
+4)
+    Pour le code 1 on a:
+        declaration
+        declaration et affectation
+        affectation
+        {
+            affichage
+            addition
+        } * l
+        
+    Pour le code 2 on a:
+        affichage
+        affectation
+        {
+            affichage
+            addition
+        } * n-2
+        affichage

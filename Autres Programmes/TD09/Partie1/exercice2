@@ -1,0 +1,14 @@
+
+
+2.1)
+	'fopen' renvoit NULL
+2.2)
+	'fscanf' 'getc'
+2.3)
+	'fprintf' 'fputs'
+2.4)
+	'fclose'
+2.5)
+	'fseek'
+2.6)
+	'feof'

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Programmation" Database="" Version="10.0.0">
+  <Project Name="Programmation" Path="Programmation.project" Active="Yes"/>
+  <Project Name="TPEnigma" Path="TPEnigma/TPEnigma.project" Active="No"/>
+  <Project Name="TPFINAL_S1" Path="TPFINAL_S1/TPFINAL_S1.project" Active="No"/>
+  <Project Name="Polynome" Path="Polynome/Polynome.project" Active="No"/>
+  <Project Name="Matrice" Path="Matrice/Matrice.project" Active="No"/>
+  <Project Name="Recursivite" Path="Recursivite/Recursivite.project" Active="No"/>
+  <Project Name="Recursivite_Term" Path="Recursivite_Term/Recursivite_Term.project" Active="No"/>
+  <Project Name="Recursivite_mult" Path="Recursivite_mult/Recursivite_mult.project" Active="No"/>
+  <Project Name="Matrices" Path="Matrices/Matrices.project" Active="No"/>
+  <Project Name="Optimisation" Path="Optimisation/Optimisation.project" Active="No"/>
+  <Project Name="TD05_S2" Path="TD05_S2/TD05_S2.project" Active="No"/>
+  <Project Name="TPRecursivite" Path="TP_Recursivite/TPRecursivite.project" Active="No"/>
+  <Project Name="TD6_S2" Path="TD6_S2/TD6_S2.project" Active="No"/>
+  <Project Name="Tri_Rapide" Path="Tri_Rapide/Tri_Rapide.project" Active="No"/>
+  <Project Name="Tri_Image" Path="Tri_Image/Tri_Image.project" Active="No"/>
+  <Project Name="TP03_S2" Path="TP03_S2/TP03_S2.project" Active="No"/>
+  <Project Name="Puissance4" Path="Puissance4/Puissance4.project" Active="No"/>
+  <Project Name="SDLearn" Path="SDLearn/SDLearn.project" Active="No"/>
+  <Project Name="Mario_Sokoban" Path="Mario_Sokoban/Mario_Sokoban.project" Active="No"/>
+  <Project Name="TD10_S2" Path="TD10_S2/TD10_S2.project" Active="No"/>
+  <Project Name="TP4_S2" Path="TP4_S2/TP4_S2.project"/>
+  <Project Name="Test_Video" Path="Test_Video/Test_Video.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Programmation" ConfigName="Debug"/>
+      <Project Name="TPEnigma" ConfigName="Debug"/>
+      <Project Name="TPFINAL_S1" ConfigName="Debug"/>
+      <Project Name="Polynome" ConfigName="Debug"/>
+      <Project Name="Matrice" ConfigName="Debug"/>
+      <Project Name="Recursivite" ConfigName="Debug"/>
+      <Project Name="Recursivite_Term" ConfigName="Debug"/>
+      <Project Name="Recursivite_mult" ConfigName="Debug"/>
+      <Project Name="Matrices" ConfigName="Debug"/>
+      <Project Name="Optimisation" ConfigName="Debug"/>
+      <Project Name="TP_Recursivite" ConfigName="Debug"/>
+      <Project Name="TD05_S2" ConfigName="Debug"/>
+      <Project Name="TPRecursif" ConfigName="Debug"/>
+      <Project Name="TD6_S2" ConfigName="Debug"/>
+      <Project Name="Tri_Rapide" ConfigName="Debug"/>
+      <Project Name="Tri_Image" ConfigName="Debug"/>
+      <Project Name="TP03_S2" ConfigName="Debug"/>
+      <Project Name="Puissance4" ConfigName="Debug"/>
+      <Project Name="SDLearn" ConfigName="Debug"/>
+      <Project Name="Mario_Sokoban" ConfigName="Debug"/>
+      <Project Name="TD10_S2" ConfigName="Debug"/>
+      <Project Name="TP4_S2" ConfigName="Debug"/>
+      <Project Name="Test_Video" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Programmation" ConfigName="Debug"/>
+      <Project Name="TPEnigma" ConfigName="Release"/>
+      <Project Name="TPFINAL_S1" ConfigName="Release"/>
+      <Project Name="Polynome" ConfigName="Release"/>
+      <Project Name="Matrice" ConfigName="Release"/>
+      <Project Name="Recursivite" ConfigName="Release"/>
+      <Project Name="Recursivite_Term" ConfigName="Release"/>
+      <Project Name="Recursivite_mult" ConfigName="Release"/>
+      <Project Name="Matrices" ConfigName="Release"/>
+      <Project Name="Optimisation" ConfigName="Release"/>
+      <Project Name="TP_Recursivite" ConfigName="Release"/>
+      <Project Name="TD05_S2" ConfigName="Release"/>
+      <Project Name="TPRecursif" ConfigName="Release"/>
+      <Project Name="TD6_S2" ConfigName="Release"/>
+      <Project Name="Tri_Rapide" ConfigName="Release"/>
+      <Project Name="Tri_Image" ConfigName="Release"/>
+      <Project Name="TP03_S2" ConfigName="Release"/>
+      <Project Name="Puissance4" ConfigName="Release"/>
+      <Project Name="SDLearn" ConfigName="Release"/>
+      <Project Name="Mario_Sokoban" ConfigName="Release"/>
+      <Project Name="TD10_S2" ConfigName="Release"/>
+      <Project Name="TP4_S2" ConfigName="Release"/>
+      <Project Name="Test_Video" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,127 @@
+Partie 1:
+
+Exercice 1: 
+
+1) la méthode de droite-gauche est impossible a réaliser
+
+6) Compléxité linéaire pour les deux mais l'algo gauche-droite est beaucoup plus lourd.
+
+7) L'algo droite-gauche est le mieux.
+
+Exercice 2: 
+
+1) Il n'y a pas de restrictions sur n.
+Il faut que g^(ep*ed)<< 4 milliard.
+Et (ep*ed)<<80.
+
+2) n<= 4 milliard
+
+Exercice 3:
+
+1) Fonction : ExpoNaiveIte
+	
+	Entrée: g, e
+	Sortie: resultat
+	Faire:
+		déclaration i
+		déclaration resultat
+		affectation resultat <-- 1
+		Boucle Pour i de 1 à e
+			resultat <-- resultat *g
+	renvoyer resultat
+
+2) Compléxité linéaire : 4+3e
+Le modulo doit être effectué apres le calcul de puissance.
+
+3) Afin d'optimiser il faudrait placer le modulo juste avant de renvoyer le résultat.
+
+6) On ne peut pas le placer avant de renvoyer le résultat, il faut donc le mettre dans la boucle.
+
+Exercice 4:
+
+1) g^((a)^(b))
+
+2)  g^((2)^(2))
+    g^((2)^(2)^2)
+    g^((2)^(2)^2)^2)
+
+Exercice 5: 
+
+1) Fonction ExpoPuiss2
+	Entrée: g, e
+	Sortie: g^e
+	Faire: 
+		Test sur e == 1
+			retourner g
+		Retourner ExpoPuiss2(g*g,e/2,n)
+
+2) Compléxité linéaire 2e+3
+
+Exercice 6:
+
+1) g^(a+b) = (g^a)*(g^b)
+
+2) g^3 = (g^2)*(g^1)
+   g^5 = (g^2)*(g^2)*(g^1)
+   g^11 = (g^2)*(g^2)*(g^2)*(g^2)*(g^1)
+
+Exercice 7:
+
+1) Il faudra un tableau de 5 cases.
+
+2) Rang : 0 => 4
+   Rang : 1 => 4^2 = (4^1)*(4^1)
+   Rang : 2 => 4^4 = (4^2)*(4^2)
+   Rang : 3 => 4^8 = (4^4)*(4^4)
+   Rang : 4 => 4^12 = (4^8)*(4^8)
+
+3) 22 en base 2 = 10110
+
+4) Le résultat est 4.
+
+
+Partie 2:
+
+Exerice 1: 
+
+1) 38 en base 2 = 100110
+   
+   0	1	2	3	4	5
+   g	g^2	g^4	g^8	g^16	g^32
+   0	1	1	0	0	1
+   1	g^2	g^6	g^6	g^6	g^38
+
+2) 22 en base 2 = 10110
+   
+   0	1	2	3	4
+   g	g^2	g^4	g^8	g^16
+   0	1	1	0	1
+   1	g^2	g^6	g^6	g^22
+
+   0	1	1	0	1
+   1	g	g^2	g^4	g^8
+   1	4	1	1	4
+
+   Le résultat est donc 4.
+
+3) Exponentiation Rapide 
+   
+   Entrées: Entiers g, Tab = DecompoBinaire(e)
+   Les opérations se feront %n
+   Sortie: g^e sans modulo
+
+   Faire: 
+	Entier Res <- 1
+	Pour i allant de 1 a taille de Tab
+		Si Tab[i] = 1 
+		Alors res = res*g
+		Fin Si
+		g<-g^e
+	Fin Pour 
+   Fin
+
+
+
+
+
+	

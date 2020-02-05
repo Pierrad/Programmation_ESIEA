@@ -1,0 +1,5 @@
+masse 0.2
+fCoef 0.9
+position 0 0
+vitesse 10.0 10.0
+vent 5.3 0

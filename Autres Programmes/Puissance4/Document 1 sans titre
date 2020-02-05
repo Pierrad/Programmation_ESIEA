@@ -1,0 +1,12 @@
+Besoin d'une structure pour les jetons
+	Position
+	Poids(appliqué une force)
+	Vitesse
+
+Comment je gère l'alternance entre jeton rouge et jeton jaune ?
+Comment gérer les bords de la fenètre et les espaces entre les trous ?
+
+A partir du clic on genere une force sur le jeton i 
+Il faut gerer les collisions entre les jetons
+
+Reflechir a la gestion des fichiers

@@ -1,0 +1,5 @@
+Partie 3.3
+
+le tri insertion est stable
+le tri selection n'est pas stable en mode distance mais stable en mode prix
+le tri bulle est stable selon les deux

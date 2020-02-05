@@ -1,0 +1,20 @@
+age 
+&age
+pointeur 
+*pointeur
+
+
+Un pointeur est une variable qui contient uniquement une adresse.
+
+adresse d'une variable : utiliser &
+Contenu d'une adresse : utiliser *
+
+int valeur = 10;
+int *p_val = NULL;
+
+p_val = &valeur;
+*p_val = 5; //le contenu de l'adresse est modifié
+
+*point "Ce qu'il y a a l'adresse pointé par point"
+&var "adresse de var"
+

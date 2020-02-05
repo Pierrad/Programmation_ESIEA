@@ -1,0 +1,7 @@
+Batavia 100 5
+Carotte 150 7
+Croquette 10 1
+Paillasson 400 18
+Fenouil 180 9
+Persil 40 2
+Foin 70 4
