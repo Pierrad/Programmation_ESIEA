@@ -8,3 +8,15 @@ Projets les plus intéressants :
 - Jeu de la vie
 - Simulation de loi de physique type gravitation (TP_FINAL_S1) (SDL...)
 - Jeu de musique type Guitar Hero (TP_FINAL_S2) (SDL, Socket...)
+
+Notions :
+---------
+- C, pointeurs, structures...
+- Récursivité, multiple, terminale
+- Algorithmes de Tri (bulles, sélection, insertion, intelligent...)
+- Complexité et Optimisation
+- Programmation dynamique
+- Allocation dynamique
+- Représentation en machine
+- SDL
+- Socket
