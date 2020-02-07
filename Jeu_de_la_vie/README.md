@@ -14,10 +14,8 @@ Fichiers de configuration :
 - vitesse >0 En secondes. Float possibles
 - continue [0,1] 1 permet l'affichage en continue, 0 permet d'afficher chaque étape, en appuyant sur la touche Entrer
 
-/!\ Une fois les parametres naissance et survie choisi, completez pour remplir les 8 cases avec des nombres déjà entrés
-
-/!\ Respectez l'espace apres chaque mots et ne sautez pas de lignes comme dans l'exemple suivant :
-
+### Une fois les parametres naissance et survie choisi, completez pour remplir les 8 cases avec des nombres déjà entrés
+### Respectez l'espace apres chaque mots et ne sautez pas de lignes comme dans l'exemple suivant :
 
 largeur 30   
 
