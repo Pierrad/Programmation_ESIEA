@@ -11,6 +11,7 @@ Projets les plus intéressants :
 
 Notions :
 ---------
+- Commandes Linux / Terminal
 - C, pointeurs, structures...
 - Récursivité, multiple, terminale
 - Algorithmes de Tri (bulles, sélection, insertion, intelligent...)
