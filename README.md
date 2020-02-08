@@ -6,7 +6,7 @@ Projets les plus intéressants :
 -------------------------------
 - Enigma
 - Jeu de la vie
-- Simulation de loi de physique type gravitation (TP_FINAL_S1) (SDL...)
+- Simulation de loi de physique type gravitation, rebond, attraction, ressort... (TP_FINAL_S1) (SDL...)
 - Jeu de musique type Guitar Hero (TP_FINAL_S2) (Tri, SDL, Socket...)
 
 Notions :
